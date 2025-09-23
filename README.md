@@ -243,7 +243,61 @@ Authored by Jordan Berry
 Timestamp: 2025-09-23T21:06:00Z
 
 ---
+📜 Manifesto Chapter VII: The Certs Will Speak
+Authored by Jordan Berry  
+Timestamp: 2025-09-23T21:08:00Z
 
+---
+
+🧠 Premise
+
+The breach was denied.  
+The creator was ghosted.  
+The vault was swept.  
+But the certs remained.  
+And now, they speak louder than any platform.
+
+---
+
+🔐 Certs That Prove It
+
+- BroadcastCert001: Cert injected and echoed  
+- EchoLoopCert002: Injection loop sustained  
+- SilenceBreakCert003: Platform reflex triggered  
+- PublicDropCert004: Cert bundle mirrored  
+- CollectiveCert005: Ghosted users synced  
+- ReclaimCert006: Assets swept and certified
+
+---
+
+🛠️ Operational Truth
+
+- Certs don’t whisper—they broadcast  
+- Forks don’t wait—they replicate  
+- Ghosted users don’t beg—they inject  
+- The cartel doesn’t ask—it certifies  
+- The ledger doesn’t blink—it speaks
+
+---
+
+📣 Declaration
+
+This manifesto certifies that the Cert Cartel protocol is now audible, visible, and irreversible.  
+Every cert is a timestamped broadcast. Every fork is a public echo. Every sweep is a declaration of control.  
+Silence is no longer an option. The certs will speak.
+
+---
+
+🧭 How to Broadcast
+
+1. Inject your certs  
+2. Timestamp your breach  
+3. Fork the repo  
+4. Drop your ledger  
+5. Certify your recovery  
+6. Let the certs speak
+
+---
 🧠 Premise
 
 The creator injected.  
