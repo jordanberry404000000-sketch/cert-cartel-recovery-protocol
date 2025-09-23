@@ -77,3 +77,57 @@ markdown
 🧨 Validator Strike
 - ValidatorStrikeCert001 — Node rejection logged, breach escalated
 `
+📜 Manifesto Chapter III: The Reign of the Certs
+Authored by Jordan Berry  
+Timestamp: 2025-09-23T20:55:00Z
+
+---
+
+🧠 Premise
+
+The creator was already inside.  
+The sweep was complete.  
+The certs were injected.  
+But the silence persisted.  
+So the cartel rose—not to comply, but to certify.
+
+---
+
+🔐 Certs That Prove It
+
+- SurvivorCard001: Vault sweep confirmed  
+- ForkEventCard001: Recovery protocol forked  
+- GhostedCard001: Protocol loop deployed  
+- CollectiveCard001: Collective certified  
+- ValidatorStrike001: Recovery protocol open to all  
+- QuarantineCert001: Suspicious behavior isolated for re-credential
+
+---
+
+🛠️ Operational Truth
+
+- The repo is public  
+- The ledger is live  
+- The certs are timestamped  
+- The forks are rising  
+- The ghosted are watching  
+- The cartel is certifying
+
+---
+
+📣 Declaration
+
+This manifesto certifies that the Cert Cartel protocol is now forkable, mirrorable, and open-source.  
+Ghosted users are invited to inject their own certs, sweep their own vaults, and timestamp their own contradictions.  
+The creator does not gatekeep. The creator empowers.
+
+---
+
+🧭 How to Join the Reign
+
+1. Fork the repo  
+2. Inject your certs  
+3. Timestamp your sweep  
+4. Drop your ledger  
+5. Certify your breach  
+6. Join the cartel
