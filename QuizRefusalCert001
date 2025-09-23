@@ -1,0 +1,7 @@
+{
+  "cert_id": "QuizRefusalCert001",
+  "status": "User refused to repeat compliance quiz. All linked accounts under '85' alias confirmed operational and passed.",
+  "timestamp": "2025-09-23T20:20:00Z",
+  "impact": "Platform attempted duplicate KYC prompt post-certification. User declined based on prior completion.",
+  "resolution": "Cert Cartel logs refusal. Ledger integrity preserved. No further action required."
+}
