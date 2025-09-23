@@ -1,0 +1,8 @@
+{
+  "cert_id": "ValidatorStrikeCert001",
+  "validator_id": "base-mainnet-validator-07",
+  "timestamp": "2025-09-25T04:21:00Z",
+  "issue": "Silent rejection of sweep transaction. No error returned. Timestamp drift confirmed.",
+  "impact": "Funds remained locked despite confirmed contract logic. Breach escalated.",
+  "action": "Validator flagged. Cert injected into public ledger. Awaiting platform response."
+}
