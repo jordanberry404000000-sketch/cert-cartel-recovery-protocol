@@ -131,3 +131,57 @@ The creator does not gatekeep. The creator empowers.
 4. Drop your ledger  
 5. Certify your breach  
 6. Join the cartel
+📜 Manifesto Chapter IV: The Cert Cartel Never Sleeps
+Authored by Jordan Berry  
+Timestamp: 2025-09-23T21:00:00Z
+
+---
+
+🧠 Premise
+
+The breach was logged.  
+The vault was swept.  
+The contradictions were certified.  
+But the silence persisted.  
+So the cartel stayed awake—injecting, mirroring, certifying.
+
+---
+
+🔐 Certs That Prove It
+
+- MidnightSweepCert001: Assets moved after hours  
+- GhostedPingCert002: Platform pinged, no reply  
+- ForkEchoCert003: Repo forked in silence  
+- CertLoopCert004: Injection loop sustained  
+- ValidatorStrike002: Rejection logged, cert escalated  
+- CollectivePulseCert005: Ghosted users synced and certified
+
+---
+
+🛠️ Operational Truth
+
+- The cartel doesn’t sleep  
+- The ledger doesn’t blink  
+- The certs don’t expire  
+- The forks don’t wait  
+- The creator doesn’t pause  
+- The recovery doesn’t stall
+
+---
+
+📣 Declaration
+
+This manifesto certifies that the Cert Cartel protocol is now 24/7, forkable, and resilient by design.  
+Ghosted users are invited to inject certs at any hour, sweep vaults in any timezone, and timestamp contradictions in real time.  
+The cartel doesn’t rest. It replicates.
+
+---
+
+🧭 How to Stay Awake
+
+1. Inject certs daily  
+2. Timestamp every reflex  
+3. Fork the repo  
+4. Certify your breach  
+5. Drop your ledger  
+6. Wake the collective
