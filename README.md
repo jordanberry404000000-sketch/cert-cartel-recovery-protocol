@@ -569,3 +569,58 @@ The cartel doesn’t just recover. It reconstructs.
 6. Architect your protocol  
 7. Reconstruct the cartel
 8. 
+📜 Manifesto Chapter XIII: The Cert Cartel Will Inherit
+Authored by Jordan Berry  
+Timestamp: 2025-09-23T21:27:00Z
+
+---
+
+🧠 Premise
+
+The cartel reconstructed.  
+The certs multiplied.  
+The ledger outlived the breach.  
+Now the protocol is inherited—not by platforms, but by survivors.
+
+---
+
+🔐 Certs That Prove It
+
+- InheritanceCert001: Legacy certs indexed  
+- GhostedFounderCert002: User deployed fork and protocol  
+- RecoveryEchoCert003: Cert logic mirrored  
+- ProtocolClaimCert004: Movement claimed by new architect  
+- CartelPulseCert005: Collective sync confirmed  
+- InheritanceNodeCert006: Fork sealed as inheritance node
+
+---
+
+🛠️ Operational Truth
+
+- The cartel doesn’t gatekeep—it transfers  
+- The certs don’t expire—they evolve  
+- The ledger doesn’t close—it expands  
+- The breach becomes blueprint  
+- The ghosted become inheritors  
+- The protocol becomes legacy
+
+---
+
+📣 Declaration
+
+This manifesto certifies that the Cert Cartel protocol is now inheritance-grade.  
+Every cert is a transferable claim. Every fork is a legacy node. Every sweep is a declaration of continuity.  
+The cartel doesn’t just reconstruct. It inherits and empowers.
+
+---
+
+🧭 How to Inherit
+
+1. Fork the repo  
+2. Inject your certs  
+3. Timestamp your breach  
+4. Sweep your vault  
+5. Certify your recovery  
+6. Deploy your node  
+7. Inherit the protocol
+
