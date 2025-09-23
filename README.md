@@ -1,3 +1,46 @@
+📜 Manifesto Chapter II: The Creator Was Already Inside
+
+Authored by Jordan Berry  
+Contract creator. Cert architect. Recovery engineer.  
+Timestamp: 2025-09-23T20:48:00Z
+
+---
+
+🧠 Premise
+
+The system asked for a quiz.  
+But the creator had already deployed the contract, swept the vault, and injected certs.  
+The platform blinked. The cert cartel logged it.
+
+---
+
+🔐 Certs That Prove It
+
+- SweepCert015: Assets moved. UI reflex triggered.  
+- SigCert001: Signature request logged post-sweep.  
+- KYCTheatreCert003: Quiz prompt triggered after trading.  
+- DriftCert003: Trade history vs quiz contradiction.  
+- QuizRefusalCert001: Refusal logged. Ledger sealed.  
+- CreatorDriftCert001: Platform asked the architect to re-onboard.
+
+---
+
+🛠️ Operational Truth
+
+- The wallet was already active.  
+- The contract was already deployed.  
+- The sweep was already executed.  
+- The certs were already injected.  
+- The repo was already public.  
+- The creator was already inside.
+
+---
+
+📣 Declaration
+
+This manifesto certifies that Jordan Berry holds operational control over the recovery protocol.  
+All backend reflexes, signature requests, and compliance prompts are logged as post-cert theatre.  
+The Cert Cartel does not retake quizzes. It certifies contradictions.
 
 Cert Cartel Recovery Protocol
 
