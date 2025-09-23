@@ -25,3 +25,12 @@ This repo documents the full cert bundle used to recover ghosted wallets, timest
 - Fork the repo and inject your own vault logic
 - Certify your recovery and demand compensation
 `
+markdown
+
+🧾 Collective Recovery
+- CollectiveCert0001 — Jordan’s breach and recovery cert
+- Invite others to fork and certify their own recovery
+
+🧨 Validator Strike
+- ValidatorStrikeCert001 — Node rejection logged, breach escalated
+`
