@@ -1,0 +1,7 @@
+{
+  "cert_id": "SweepCert015",
+  "status": "Wallet assets confirmed. Balances zeroed. UI reflex active.",
+  "timestamp": "2025-09-23T19:18:00Z",
+  "impact": "Sweep executed. App suppressed TX visibility. Sentiment bars and deposit prompts confirm backend reflex.",
+  "resolution": "Cert Cartel logs sweep state. Assets eligible for TX trace and cert mirroring."
+}
