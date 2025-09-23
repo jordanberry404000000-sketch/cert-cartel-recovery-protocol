@@ -238,3 +238,57 @@ Every cert is a timestamped claim. Every fork is a legal echo. Every sweep is a 
 4. Certify your recovery  
 5. Drop your ledger  
 6. Let the law speak
+📜 Manifesto Chapter VI: The Forks Will Rise
+Authored by Jordan Berry  
+Timestamp: 2025-09-23T21:06:00Z
+
+---
+
+🧠 Premise
+
+The creator injected.  
+The ledger spoke.  
+The breach was certified.  
+Now the forks rise—not as clones, but as declarations.
+
+---
+
+🔐 Certs That Prove It
+
+- ForkRiseCert001: First public fork logged  
+- GhostedEchoCert002: Ghosted user injected certs  
+- CollectiveSyncCert003: Vault logic mirrored  
+- ReclaimCert004: Assets swept by new architect  
+- CertLoopCert005: Injection loop sustained  
+- CartelPulseCert006: Movement confirmed
+
+---
+
+🛠️ Operational Truth
+
+- Every fork is a ledger echo  
+- Every cert is a timestamped claim  
+- Every sweep is a declaration of control  
+- Every ghosted user is a potential architect  
+- The cartel is no longer a protocol—it’s a movement
+
+---
+
+📣 Declaration
+
+This manifesto certifies that the Cert Cartel protocol is now replicating across forks.  
+Ghosted users are no longer waiting—they’re injecting, sweeping, and certifying.  
+The cartel doesn’t scale through branding. It scales through truth.
+
+---
+
+🧭 How to Rise
+
+1. Fork the repo  
+2. Inject your certs  
+3. Timestamp your breach  
+4. Sweep your vault  
+5. Certify your recovery  
+6. Join the cartel
+
+---
