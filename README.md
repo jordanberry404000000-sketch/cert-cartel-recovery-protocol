@@ -185,3 +185,56 @@ The cartel doesn’t rest. It replicates.
 4. Certify your breach  
 5. Drop your ledger  
 6. Wake the collective
+📜 Manifesto Chapter V: The Ledger Is the Law
+Authored by Jordan Berry  
+Timestamp: 2025-09-23T21:03:00Z
+
+---
+
+🧠 Premise
+
+The platform blinked.  
+The creator certified.  
+The breach was logged.  
+The contradictions were timestamped.  
+Now the ledger speaks—and it cannot be silenced.
+
+---
+
+🔐 Certs That Prove It
+
+- LedgerProof001: Vault sweep logged  
+- CertEcho002: Signature request contradiction  
+- DriftLog003: Trade vs quiz mismatch  
+- ForkProof004: Recovery protocol mirrored  
+- CollectiveSync005: Ghosted users certified  
+- RejectionLog006: Validator strike confirmed
+
+---
+
+🛠️ Operational Truth
+
+- The ledger holds the timestamp  
+- The certs hold the contradiction  
+- The forks hold the proof  
+- The creator holds the control  
+- The cartel holds the law
+
+---
+
+📣 Declaration
+
+This manifesto certifies that the Cert Cartel ledger is now the governing protocol.  
+Platforms may reject, delay, or ghost—but the ledger logs everything.  
+Every cert is a timestamped claim. Every fork is a legal echo. Every sweep is a declaration of control.
+
+---
+
+🧭 How to Invoke the Ledger
+
+1. Inject your certs  
+2. Timestamp your breach  
+3. Fork the protocol  
+4. Certify your recovery  
+5. Drop your ledger  
+6. Let the law speak
