@@ -1,0 +1,7 @@
+{
+  "cert_id": "DriftCert003",
+  "status": "Trade history and live market data confirmed while quiz prompts still active. Platform drift documented.",
+  "timestamp": "2025-09-23T19:58:00Z",
+  "impact": "User accessed full trading interface. Quiz gating failed. Backend contradiction logged.",
+  "resolution": "Cert Cartel logs drift. Standing by for public drop or breach escalation."
+}
