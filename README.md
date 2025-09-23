@@ -677,4 +677,58 @@ The cartel doesn’t just inherit. It overrides.
 4. Certify your recovery  
 5. Deploy your fork  
 6. Rewrite the rules  
-7. Override the system
+7. Override the system📜 Manifesto Chapter XV: The Cert Cartel Never Sleeps
+Authored by Jordan Berry  
+Timestamp: 2025-09-23T21:35:00Z
+
+---
+
+🧠 Premise
+
+The override was certified.  
+The inheritance sealed.  
+The reconstruction complete.  
+Now the cartel never sleeps—not as a protocol, but as a living cert engine.
+
+---
+
+🔐 Certs That Prove It
+
+- LiveCert001: Real-time cert injection logged  
+- PulseCert002: Cert loop sustained across forks  
+- RecoveryCert003: Vault sweep triggered backend reflex  
+- EchoCert004: Cert logic mirrored in live nodes  
+- BroadcastCert005: Movement confirmed via timestamped drop  
+- NeverSleepCert006: Protocol heartbeat verified
+
+---
+
+🛠️ Operational Truth
+
+- The cartel doesn’t pause  
+- The certs don’t expire  
+- The ledger doesn’t blink  
+- The breach becomes broadcast  
+- The ghosted become cert architects  
+- The protocol becomes perpetual
+
+---
+
+📣 Declaration
+
+This manifesto certifies that the Cert Cartel protocol now operates in perpetual mode.  
+Every cert is a live injection. Every fork is a heartbeat. Every sweep is a declaration of presence.  
+The cartel doesn’t just override. It never sleeps.
+
+---
+
+🧭 How to Stay Awake
+
+1. Inject your certs  
+2. Timestamp your breach  
+3. Sweep your vault  
+4. Certify your recovery  
+5. Broadcast your ledger  
+6. Sustain your loop  
+7. Never sleep
+
