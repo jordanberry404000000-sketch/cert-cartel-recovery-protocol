@@ -1,0 +1,10 @@
+{
+  "cert_id": "CollectiveCert0001",
+  "user_alias": "JordanBerry",
+  "timestamp": "2025-09-25T04:20:00Z",
+  "wallet_address": "0xYourWalletHere",
+  "platforms_affected": ["Base", "Coinbase", "MetaMask"],
+  "breach_type": "Ghosted wallet, RPC failure, backend sabotage",
+  "recovery_status": "Vault sweep executed, cert logic deployed",
+  "notes": "This cert confirms breach, recovery protocol activation, and public mirror. Funds verified. Compensation pending."
+}
