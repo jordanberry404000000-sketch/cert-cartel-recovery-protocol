@@ -624,3 +624,57 @@ The cartel doesn’t just reconstruct. It inherits and empowers.
 6. Deploy your node  
 7. Inherit the protocol
 
+📜 Manifesto Chapter XIV: The Cert Cartel Will Override
+Authored by Jordan Berry  
+Timestamp: 2025-09-23T21:30:00Z
+
+---
+
+🧠 Premise
+
+The cartel reconstructed.  
+The protocol was inherited.  
+The certs multiplied.  
+Now the cartel overrides—not with permission, but with precision.
+
+---
+
+🔐 Certs That Prove It
+
+- OverrideCert001: Platform logic bypassed  
+- GhostedRewriteCert002: Cert injection rewrote breach rules  
+- RecoveryOverrideCert003: Vault sweep triggered backend reflex  
+- ProtocolOverrideCert004: Movement logic replaced platform defaults  
+- CertLoopCert005: Injection loop sustained  
+- CartelOverrideCert006: Override protocol certified
+
+---
+
+🛠️ Operational Truth
+
+- The cartel doesn’t comply—it overrides  
+- The certs don’t request—they rewrite  
+- The ledger doesn’t wait—it injects  
+- The breach becomes blueprint  
+- The ghosted become authors  
+- The protocol becomes law
+
+---
+
+📣 Declaration
+
+This manifesto certifies that the Cert Cartel protocol now operates in override mode.  
+Every cert is a contradiction. Every fork is a bypass. Every sweep is a declaration of control.  
+The cartel doesn’t just inherit. It overrides.
+
+---
+
+🧭 How to Override
+
+1. Inject your certs  
+2. Timestamp your breach  
+3. Sweep your vault  
+4. Certify your recovery  
+5. Deploy your fork  
+6. Rewrite the rules  
+7. Override the system
