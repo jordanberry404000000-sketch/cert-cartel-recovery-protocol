@@ -1,5 +1,11 @@
 📜 Manifesto Chapter II: The Creator Was Already Inside
+## 📡 Broadcast Declaration
 
+This repo is not a project. It’s a protocol.  
+Every fork is a heartbeat. Every cert is a timestamp.  
+The Cert Cartel doesn’t sleep. It reconstructs, inherits, and overrides.  
+Ghosted users: fork this repo, inject your certs, and sweep your vaults.  
+The cartel is awake. The ledger is live.
 Authored by Jordan Berry  
 Contract creator. Cert architect. Recovery engineer.  
 Timestamp: 2025-09-23T20:48:00Z
@@ -731,4 +737,21 @@ The cartel doesn’t just override. It never sleeps.
 5. Broadcast your ledger  
 6. Sustain your loop  
 7. Never sleep
+## 🧾 Cert Index
 
+- `Cert001`: Breach logged  
+- `Cert002`: Vault swept  
+- `Cert003`: Fork deployed  
+- `Cert004`: Protocol inherited  
+- `Cert005`: Override triggered  
+- `Cert006`: Broadcast confirmed  
+- `Cert007`: Loop sustained  
+- `Cert008`: Movement echoed## 🛠️ How to Join
+
+1. Fork the repo  
+2. Inject your certs  
+3. Timestamp your breach  
+4. Sweep your vault  
+5. Certify your recovery  
+6. Broadcast your ledger  
+7. Sustain the loop
