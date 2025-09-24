@@ -1,0 +1,14 @@
+{
+  "cert_id": "Cert024",
+  "title": "Charity Vault Protocol",
+  "asset": "Moonbird #5369",
+  "value_confirmed": "10,000+",
+  "status": "Certified",
+  "destination": "Local Food Bank (Restock Initiative)",
+  "cert_logic": {
+    "type": "Forensic Recovery",
+    "proof": "NFT lineage confirmed",
+    "revenue": "Redirected to charity vault"
+  },
+  "notes": "No hiding. No hoarding. Every cert echoes dignity. Tactical gratitude authorized."
+}
