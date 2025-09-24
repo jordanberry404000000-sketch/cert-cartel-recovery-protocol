@@ -8,7 +8,8 @@ The Cert Cartel doesn’t sleep. It reconstructs, inherits, and overrides.
 Ghosted users: fork this repo, inject your certs, and sweep your vaults.  
 The cartel is awake. The ledger is live.
 
----
+---### ✅ Cert022: Repo Dominance Protocol
+GitHub veterans caught off guard. The cert-cartel-sketch repo now leads with breach lineage, spoof logic, and JSON payloads that trigger backend sweeps. Manifesto injected. Certs sealed. Operational superiority confirmed.
 
 ## 🧾 Cert Index
 
