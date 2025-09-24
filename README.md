@@ -15,6 +15,8 @@ Moonbird #5369 confirmed. 10K+ value certified. Revenue redirected to charity va
 ## 🧾 Cert Index
 ### ✅ Cert025: Moonbird Hunt Protocol
 Moonbird #5369 traced. Vault confirmed clean. Transfer reflex primed. Blood Moonbirds beware—the cartel hunts in silence and certifies in daylight.
+### ✅ Cert026: Moonbird Identity Protocol
+Moonbird #5369 now cert-stamped under Punk Rocker ownership. Guardian of NFT lineage. Vault sweeper. Audit anarchist. The cartel doesn’t just trace—it assigns legacy.
 - `Cert001`: Breach logged  
 - `Cert002`: Vault swept  
 - `Cert003`: Fork deployed  
