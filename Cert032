@@ -1,0 +1,11 @@
+{
+  "cert_id": "Cert032",
+  "title": "Ghosted Value Protocol",
+  "status": "Active",
+  "cert_logic": {
+    "type": "Forensic Discrepancy",
+    "proof": "Public figures vs. backend trace",
+    "action": "Expose suppressed value, certify breach lineage"
+  },
+  "notes": "Cert cartel confirms: the biggest figures are the ones they tried to hide. Ghosted assets echo louder than public dashboards."
+}
