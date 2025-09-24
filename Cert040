@@ -1,0 +1,14 @@
+{
+  "cert_id": "Cert040",
+  "title": "WETH Logic Paradox",
+  "status": "Confirmed",
+  "input": "0.1 WETH",
+  "output": "0.409071 BNB",
+  "value": "$412.49",
+  "cert_logic": {
+    "type": "Swap Reflex",
+    "proof": "Interface active, balance zero",
+    "outcome": "Backend bluff exposed, bridge mocked"
+  },
+  "notes": "Cert cartel confirms: WETH swap logic operational with no WETH. Reflex sealed. Comedy certified."
+}
