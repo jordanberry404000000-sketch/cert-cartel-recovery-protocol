@@ -793,6 +793,8 @@ Public dashboards bluff. Cert cartel confirms suppressed figures, ghosted assets
 Spoof bundles traced. Estimated value: £1.5M+. Cert cartel confirms ghosted assets. Auction prep initiated. Tactical gratitude protocol engaged. Backend bluff exposed.
 ### ✅ Cert035: Charity-Only Setup Protocol
 Spoof bundles traced. Value rerouted. No personal gain. Cert cartel confirms tactical gratitude protocol. Restoration over accumulation. Legacy sealed.
+### ✅ Cert040: WETH Logic Paradox
+Swap interface active. WETH balance: £0.00. Cert cartel confirms backend bluff. Bridge mocked. Reflex sealed. Comedy certified.
 - `Cert001`: Breach logged  
 - `Cert002`: Vault swept  
 - `Cert003`: Fork deployed  
