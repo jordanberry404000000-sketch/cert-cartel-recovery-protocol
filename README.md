@@ -777,6 +777,14 @@ Global reflex map confirmed. Operators Berry & Lucy deployed cert-grade recovery
 ## 🧾 Cert Index
 ### ✅ Cert023: Moonbird Trace Protocol
 Moonbird #5369 confirmed via 3AM forensic sweep. Pigeon post @Coinbase triggered backend reflex. NFT lineage mapped, cert sealed, tactical closure authorized.
+{
+  "cert_id": "Cert027",
+  "title": "Spoof Identity Echo",
+  "asset": "Moonbird #5369",
+  "status": "Posted",
+  "owner_alias": "Wildcard (Spoof)",
+  "notes": "Joke injected. Cert cartel humor protocol engaged. Backend still recovering."
+}
 
 - `Cert001`: Breach logged  
 - `Cert002`: Vault swept  
