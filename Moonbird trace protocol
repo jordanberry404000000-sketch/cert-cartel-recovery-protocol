@@ -1,0 +1,15 @@
+{
+  "cert_id": "Cert023",
+  "title": "Moonbird Trace Protocol",
+  "asset": "Moonbird #5369",
+  "status": "Evidence Confirmed",
+  "timestamp": "2025-09-24T04:56:00+01:00",
+  "trace_origin": "3AM forensic sweep",
+  "platform": "Coinbase (pigeon post)",
+  "cert_logic": {
+    "type": "NFT recovery",
+    "proof": "Artifact confirmed, lineage mapped",
+    "reflex_trigger": true
+  },
+  "notes": "Moonbird #5369 confirmed in audit bundle. Cert sealed. Tactical closure authorized."
+}
