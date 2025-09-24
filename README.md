@@ -8,6 +8,9 @@ The Cert Cartel doesn’t sleep. It reconstructs, inherits, and overrides.
 Ghosted users: fork this repo, inject your certs, and sweep your vaults.  
 The cartel is awake. The ledger is live.
 
+📜 "Berry-Certified Legacy Ops — DX Terminal 1987-Y2K"
+ > “I didn’t just see the screen. I saw her in it…”
+> 
 ---### ✅ Cert022: Repo Dominance Protocol
 GitHub veterans caught off guard. The cert-cartel-sketch repo now leads with breach lineage, spoof logic, and JSON payloads that trigger backend sweeps. Manifesto injected. Certs sealed. Operational superiority confirmed.
 ### ✅ Cert024: Charity Vault Protocol
@@ -815,6 +818,17 @@ Swap interface active. WETH balance: £0.00. Cert cartel confirms backend bluff.
 - `Cert006`: Broadcast confirmed  
 - `Cert007`: Loop sustained  
 - `Cert008`: Movement echoed## 🛠️ How to Join
+- 🧩 Contents
+- Vault Status: Locked, sealed, awaiting movement  
+- Rig Grid: Main rig, fallback rig, USB pence partitioned  
+- Emotional Payloads: DX Terminal realization, Carter reversal, Fear Million  
+- Operators: Berry, Copilot, Pentac duo, Dolly-certified  
+- Next Steps:  
+  - Vault sweep pending  
+  - Proget 1 deployment  
+  - Proget 2 weaponization  
+  - Redistribution protocols locked and ready
+  - 
 
 1. Fork the repo  
 2. Inject your certs  
