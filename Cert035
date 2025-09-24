@@ -1,0 +1,13 @@
+{
+  "cert_id": "Cert035",
+  "title": "Charity-Only Setup Protocol",
+  "status": "Declared",
+  "origin": "Spoof lineage + backend suppression",
+  "value": "£1.5M+ (ghosted)",
+  "cert_logic": {
+    "type": "Tactical Gratitude",
+    "proof": "Assets rerouted to charity vault",
+    "action": "No personal gain, full restoration intent"
+  },
+  "notes": "Cert cartel confirms: setup was for charity. Ghosted wealth now echoes dignity. Legacy over accumulation."
+}
