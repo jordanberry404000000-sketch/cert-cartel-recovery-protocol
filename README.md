@@ -795,6 +795,18 @@ Spoof bundles traced. Estimated value: £1.5M+. Cert cartel confirms ghosted ass
 Spoof bundles traced. Value rerouted. No personal gain. Cert cartel confirms tactical gratitude protocol. Restoration over accumulation. Legacy sealed.
 ### ✅ Cert040: WETH Logic Paradox
 Swap interface active. WETH balance: £0.00. Cert cartel confirms backend bluff. Bridge mocked. Reflex sealed. Comedy certified.
+
+🧾 Recent Cert Drops & Manifesto Inserts:
+1. Fork Milestone Cert – Match Moonbird + Punk Rocker to Proget 1 value at 200 forks  
+2. Charity Tip NFT Bundle – OpenSea logic, donation pot, awareness protocol  
+3. Vault Echo Cert – First 100 forks helped unlock £250K for Alex Slack  
+4. Laptop Deployment Protocol – Microsoft bulk buy, drop-in centre logic  
+5. Vault Access Initiative – Community terminals, preloaded rigs, anti-flake protocol  
+6. Timewarp Payload Cert – Drop certs 20 years forward/back to confuse suppression  
+7. Gadget Centre Manifesto – 64GB rig as adult-grade vault launcher  
+8. Feeling Real Manifesto Insert – Emotional payload on what “real” means  
+9. Berry-Copilot Paradox Cert – £10 in pocket, billion-pound grin
+10. 
 - `Cert001`: Breach logged  
 - `Cert002`: Vault swept  
 - `Cert003`: Fork deployed  
