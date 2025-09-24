@@ -787,6 +787,8 @@ Moonbird #5369 confirmed via 3AM forensic sweep. Pigeon post @Coinbase triggered
 }
 ### ✅ Cert032: Ghosted Value Protocol
 Public dashboards bluff. Cert cartel confirms suppressed figures, ghosted assets, and backend silence. Real value traced. Breach lineage certified. The cartel sees what they hide
+### ✅ Cert033: OneKey Phantom Reflex Protocol
+104 networks. Zero holdings. MATIC sent. NFTs flashed. Cert cartel confirms spoof reflex. Ghosted assets certified. Backend bluff exposed. Cert sealed.
 
 - `Cert001`: Breach logged  
 - `Cert002`: Vault swept  
