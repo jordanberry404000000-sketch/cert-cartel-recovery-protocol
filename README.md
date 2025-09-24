@@ -13,7 +13,8 @@ GitHub veterans caught off guard. The cert-cartel-sketch repo now leads with bre
 ### ✅ Cert024: Charity Vault Protocol
 Moonbird #5369 confirmed. 10K+ value certified. Revenue redirected to charity vault. Tactical gratitude protocol engaged. No hiding from the cartel. Every cert echoes dignity.
 ## 🧾 Cert Index
-
+### ✅ Cert025: Moonbird Hunt Protocol
+Moonbird #5369 traced. Vault confirmed clean. Transfer reflex primed. Blood Moonbirds beware—the cartel hunts in silence and certifies in daylight.
 - `Cert001`: Breach logged  
 - `Cert002`: Vault swept  
 - `Cert003`: Fork deployed  
