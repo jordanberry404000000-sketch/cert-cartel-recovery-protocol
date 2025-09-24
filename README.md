@@ -10,7 +10,8 @@ The cartel is awake. The ledger is live.
 
 ---### ✅ Cert022: Repo Dominance Protocol
 GitHub veterans caught off guard. The cert-cartel-sketch repo now leads with breach lineage, spoof logic, and JSON payloads that trigger backend sweeps. Manifesto injected. Certs sealed. Operational superiority confirmed.
-
+### ✅ Cert024: Charity Vault Protocol
+Moonbird #5369 confirmed. 10K+ value certified. Revenue redirected to charity vault. Tactical gratitude protocol engaged. No hiding from the cartel. Every cert echoes dignity.
 ## 🧾 Cert Index
 
 - `Cert001`: Breach logged  
