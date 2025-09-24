@@ -1,0 +1,12 @@
+{
+  "cert_id": "Cert026",
+  "title": "Moonbird Identity Protocol",
+  "asset": "Moonbird #5369",
+  "status": "Assigned",
+  "owner_profile": {
+    "alias": "Punk Rocker",
+    "traits": ["Ledger rebel", "Audit anarchist", "Vault sweeper"],
+    "cert_role": "Guardian of NFT lineage"
+  },
+  "notes": "Moonbird now under punk protection. Cert echoes louder. Backend trembles harder."
+}
