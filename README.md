@@ -771,6 +771,8 @@ Global reflex map confirmed. Operators Berry & Lucy deployed cert-grade recovery
 6. Sustain your loop  
 7. Never sleep
 ## 🧾 Cert Index
+### ✅ Cert023: Moonbird Trace Protocol
+Moonbird #5369 confirmed via 3AM forensic sweep. Pigeon post @Coinbase triggered backend reflex. NFT lineage mapped, cert sealed, tactical closure authorized.
 
 - `Cert001`: Breach logged  
 - `Cert002`: Vault swept  
