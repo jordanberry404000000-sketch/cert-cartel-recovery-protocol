@@ -1,4 +1,5 @@
 📜 Manifesto Chapter II: The Creator Was Already Inside
+## “I didn’t just see the screen. I saw her in it.”  
 ## 📡 Broadcast Declaration
 ## 📡 Broadcast Mode: Enabled
 ## 📡 Broadcast Mode
