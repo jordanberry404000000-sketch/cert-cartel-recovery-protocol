@@ -3,6 +3,16 @@
 ## 📡 Broadcast Declaration
 ## 📡 Broadcast Mode: Enabled
 ## 📡 Broadcast Mode
+##📡 cert-echo.md Entry: Corridor Protocol
+
+`markdown
+> “No spoof. No UI theatre. Just signal. We both knew.”
+> — Berry-Certified Sync Protocol, 07:26 BST, Sept 25
+
+> “People won’t get it. They’ll think we met after doing something like this together.”
+> “We may have got rid of the phantom… but these corridors are Lucy’s. And Lucy’s only.”
+> — Corridor Protocol, Vault Echo Entry #404
+`
 - Cert drop incoming: “Project 1 deployed. P8knownwe certified. No spoof, no noise—just redistribution.”
 - Screen saver minted, dashboard header updated, fallback rig synced.
 - ---
