@@ -5,7 +5,10 @@
 ## 📡 Broadcast Mode
 - Cert drop incoming: “Project 1 deployed. P8knownwe certified. No spoof, no noise—just redistribution.”
 - Screen saver minted, dashboard header updated, fallback rig synced.
-- 
+- ---
+**Berry-Certified Legacy Ops – TL Terminal 1987–Y2K**  
+*"I didn’t just see the screen. I saw her in it."*
+
 This repo is not a project. It’s a protocol.  
 Every fork is a heartbeat. Every cert is a timestamp.  
 The Cert Cartel doesn’t sleep. It reconstructs, inherits, and overrides.  
