@@ -44,6 +44,123 @@ Moonbird #5369 confirmed. 10K+ value certified. Revenue redirected to charity va
 Moonbird #5369 traced. Vault confirmed clean. Transfer reflex primed. Blood Moonbirds beware—the cartel hunts in silence and certifies in daylight.
 ### ✅ Cert026: Moonbird Identity Protocol
 Moonbird #5369 now cert-stamped under Punk Rocker ownership. Guardian of NFT lineage. Vault sweeper. Audit anarchist. The cartel doesn’t just trace—it assigns legacy.
+🧾 Artifact #067: Cert-Cart Recovery — Repo Ritual
+
+Repository:  
+cert-cart-recovery-protocol — GitHub archive by jordanbunker
+
+Contents:  
+- Ethereum cert logic  
+- LED strip glow protocols  
+- Broadcast Mode: Enabled  
+- Cert Index:  
+  - Cert020: Charity Vault Protocol  
+  - Cert025: Moonbind Hunt Protocol  
+  - Lucy Buschek narrative thread embedded
+
+Status:  
+✅ Minted as cert echo  
+✅ Embedded in Berry-Cert dashboard  
+✅ Ready for QR badge, screen saver, and fallback rig wallpaper  
+✅ Timestamped: 26 Sept 2025, 16:44 BST
+
+Cert Quote:  
+> “Recovery isn’t a feature—it’s a ritual. Every commit is a cert echo.”
+
+Visual Options:  
+- CRT-style overlay with pixel shimmer  
+- LED strip glow pulsing on cert index scroll  
+- QR badge linking to repo and cert ledger
+- 🧾 Artifact #067: Cert-Cart Recovery — Repo Ritual
+
+Repository:  
+cert-cart-recovery-protocol — GitHub archive by jordanbunker
+
+Contents:  
+- Ethereum cert logic  
+- LED strip glow protocols  
+- Broadcast Mode: Enabled  
+- Cert Index:  
+  - Cert020: Charity Vault Protocol  
+  - Cert025: Moonbind Hunt Protocol  
+  - Lucy Buschek narrative thread embedded
+
+Status:  
+✅ Minted as cert echo  
+✅ Embedded in Berry-Cert dashboard  
+✅ Ready for QR badge, screen saver, and fallback rig wallpaper  
+✅ Timestamped: 26 Sept 2025, 16:44 BST
+
+Cert Quote:  
+> “Recovery isn’t a feature—it’s a ritual. Every commit is a cert echo.”
+> 🐦💸 Artifact #068: Moonbird Hunt — Spoof Value Echo
+
+Payload:  
+- Moonbird NFT flex: $10K floor  
+- Operator reflection: “Keep your worth, bird. We’re minting millions in movement.”  
+- Cert contrast: redistribution > speculation, legacy > liquidity
+
+Status:  
+✅ Minted as spoof theatre relic  
+✅ Embedded in dashboard humor overlay  
+✅ QR-ready for satire leaflet drop  
+✅ Timestamped: 26 Sept 2025, 16:51 BST
+
+Cert Quote:  
+> “Moonbird can perch on her price tag. We’re flying with cert storms.”
+
+---
+🧨 Artifact #069: Weaponized Deployment — Project 2 Activation
+
+Mission:  
+Trigger borough-wide redistribution using QR logic, leaflet drops, and device deployment. No echo. Just impact.
+
+Core Protocols:  
+- QR Leaflet Print Stack: cert-stamped codes linking to food access, donation portals, and emergency ops  
+- Operator Roles: vetted agents with redistribution badges, fallback hotline (Denise embedded)  
+- Device Deployment: partitioned USBs, rig stacks, and spoof-proof overlays for public terminals  
+- UI Overlay: retro dashboard with live drop counters, LED strip alerts, and spoof immunity flags  
+- Cert Tracker: logs every drop, every scan, every survival-grade impact
+
+Visual Options:  
+- CRT-style dashboard with pixel counters  
+- QR badge for public deployment  
+- Screen saver mockup with “No Echo. Just Ops.” cert quote
+
+Status:  
+✅ Minted as Artifact #069  
+✅ Embedded in Berry-Cert dashboard  
+✅ Ready for borough deployment, Operator onboarding, and leaflet print  
+✅ Timestamped: 26 Sept 2025, 16:54 BST
+
+Cert Quote:  
+> “No echo. No theatre. Just ops.”
+> 
+---
+
+📦 Artifact #070: QR Leaflet Print Protocol — Weaponized Deployment
+
+Mission:  
+Print and distribute cert-stamped QR leaflets across borough zones for direct access to food security ops, donation portals, and emergency fallback logic.
+
+Protocol Includes:  
+- QR Generator: links to Berry-Cert dashboard, Project 1 access, and Operator onboarding  
+- Print Layouts: A6, A5, and sticker formats with spoof-proof overlays  
+- Visuals: CRT-style grain, LED strip glow, and cert quote footer  
+- Distribution Zones: food banks, community centers, fallback rigs, and public terminals  
+- Operator Badge Embed: Lucy Bucket seal + Dolly pawprint watermark 🐾  
+- Hotline Logic: Denise fallback number embedded in footer with spoof shield
+
+Cert Quote:  
+> “No echo. No theatre. Just ops.”
+
+Status:  
+✅ Minted as Artifact #070  
+✅ Embedded in Berry-Cert dashboard  
+✅ Ready for borough deployment, print run, and rig display  
+✅ Timestamped: 26 Sept 2025, 16:56 BST
+
+---
 - `Cert001`: Breach logged  
 - `Cert002`: Vault swept  
 - `Cert003`: Fork deployed  
