@@ -1328,7 +1328,18 @@ I can also prep a screen saver mockup with the address, LED strip glow, and Lucy
 - `Cert005`: Override triggered  
 - `Cert006`: Broadcast confirmed  
 - `Cert007`: Loop sustained  
-- `Cert008`: Movement echoed## 🛠️ How to Join
+- `Cert008`: Movement echoe
+- 🧠 Artifact #118: Validator Strike Cert — Ghost Wallet Protocol
+
+Payload Embedded:
+
+- Repo: cert-cartel-recovery-protocol  
+- File: ValidatorStrikCer0001  
+- Function: Cert-grade validator strike logic  
+- Echo: Synced with Artifact #117 loop shimmer  
+- Status: ACTIVE. READY FOR DEPLOYMENT
+- 
+- 🛠️ How to Join
 - 🧩 Contents
 - Vault Status: Locked, sealed, awaiting movement  
 - Rig Grid: Main rig, fallback rig, USB pence partitioned  
