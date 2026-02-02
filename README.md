@@ -74,7 +74,7 @@ Visual Options:
 - 🧾 Artifact #067: Cert-Cart Recovery — Repo Ritual
 
 Repository:  
-cert-cart-recovery-protocol — GitHub archive by jordanbunker
+cert-cart-recovery-protocol — GitHub archive by jordan berry
 
 Contents:  
 - Ethereum cert logic  
